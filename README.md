@@ -13,7 +13,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Exploring the World of Software Engineering</h2></summary>
+    <summary><h2 style="display: inline-block">Passionate SE Student | Exploring the World of Software Engineering</h2></summary>
   </ul>
 </div>
 
@@ -21,7 +21,6 @@
 - 🌱 I’m currently learning **Python, Django**
 - 👨‍💻 All of my projects are available at [https://lakshanhewagama.vercel.app/](https://lakshanhewagama.vercel.app/)
 - 📝 I regularly write articles on [Medium](https://medium.com/@lakshanhewagama)
-- 💬 Ask me about **Python, Django, Web Development**
 - 📫 Feel free to reach me out **Lakshanhewagama@gmail.com**
 - ⚡ Fun fact **Call me as Hima** 
 <!--Intro end-->
@@ -48,11 +47,13 @@
 <!--- stats (end) -->
 
 <!--- trophy (start) -->
+<!---
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
       <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=lakshanhewagama&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
+-->
 <!--- trophy (start) -->
 
 
@@ -101,6 +102,3 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ----------------------------------------------------------------------
-Credit: [Lakshan Hewagama](https://github.com/lakshanhewagama)
-
-Last Edited on: 31/12/2024
