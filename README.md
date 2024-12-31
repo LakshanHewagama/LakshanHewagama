@@ -73,26 +73,27 @@
 
 <h2> Github Stats (Expand to View) <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h2>
 
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Aastha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aastha12&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aastha12&show_icons=true&locale=en&layout=compact&theme=algolia" alt="aastha12" height="192px"/>
-  <br/>
-  </p>
-</details>
 
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=1010nishant&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&theme=dark&hide_border=false" /> 
+</td>
 
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/aastha12"><img alt="Aastha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aastha12&custom_title=Aastha's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
+<td width="50%" align="center">
 
-</details>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
 
 <br/>
 
