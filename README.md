@@ -18,7 +18,7 @@
 </div>
 
 <!--Intro start-->
-- 🌱 I’m currently learning **Java, Springboot** and **React
+- 🌱 I’m currently learning **Java, Springboot**
 - 👨‍💻 All of my projects are available at [https://lakshanhewagama.vercel.app/](https://lakshanhewagama.vercel.app/)
 - 📝 I regularly write articles on [Medium](https://medium.com/@lakshanhewagama)
 - 📫 Feel free to reach me out **Lakshanhewagama@gmail.com**
